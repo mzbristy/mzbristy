@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mzbristy
+- 👀 I’m interested in learning to code
+- 🌱 Currently learning JS
